@@ -276,7 +276,7 @@ if (Arquivo_Codigo != null){
 // Começo Objeto Para Carregar Tela ******************************************* Começo Descrição de Ações *********
 //tela.setBackground(Color.black);                                              // Tela cores padrão
   tela.setBackground(new Color(230, 230, 230));                                 // Telas cores Personalizadas
-  setSize(500, 250);                                                            // Tamanho da Tela
+  setSize(500, 270);                                                            // Tamanho da Tela
   setVisible(true);                                                             // Visibilidada da Tela no DeskTop
   setLocationRelativeTo(null);                                                  // Posiçao da Tela no DeskTop Sendo Null Aparecera no Centro do DeskTop
   //setExtendedState(ICONIFIED);                                                // Para Exibir Janela Minimizada
